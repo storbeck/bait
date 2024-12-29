@@ -2,6 +2,12 @@
 
 A Go-based tool that generates realistic IT security alert voicemails using OpenAI's GPT-4 for content generation and ElevenLabs for text-to-speech conversion.
 
+
+
+https://github.com/user-attachments/assets/37178800-3420-4f81-8082-4521f6f5c1a9
+
+
+
 ## Overview
 
 This tool creates convincing IT security alert voicemails by:
