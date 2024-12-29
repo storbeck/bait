@@ -1,4 +1,4 @@
-# AI Security Alert Generator
+# bait
 
 A Go-based tool that generates realistic IT security alert voicemails using OpenAI's GPT-4 for content generation and ElevenLabs for text-to-speech conversion.
 
