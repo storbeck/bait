@@ -147,7 +147,7 @@ func main() {
 		script, err := generateOpenAIContent(fmt.Sprintf(`Create an urgent IT security voicemail script using this company: %s
 
 		The script should:
-		- Be 30-45 seconds long
+		- Be 15-30 seconds long
 		- Sound professional and authoritative
 		- Mention detecting suspicious login activity "just minutes ago"
 		- Express urgency about potential account compromise
